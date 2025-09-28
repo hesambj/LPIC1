@@ -5,8 +5,8 @@ lpic 1 course
 
 git status
 git add .
-
-df
+git commit -m "update"
+git push
 
 
 
