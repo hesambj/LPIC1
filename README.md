@@ -1,7 +1,7 @@
 # Hesam Linux learn
 
 lpic 1 course
-```
+```sh
 
 git status
 git add .
