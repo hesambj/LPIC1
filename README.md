@@ -12,7 +12,7 @@ git push
 
 mkdir for create directory
 ../../ -->   back to directory
-sudo apt tree
+sudo apt install tree
 
  mkdir -p /root/lpic1/      for create directory with two directory
 
@@ -31,5 +31,16 @@ cat --> sho file details
 
  
 
+
+```
+
+
+
+
+# docker 
+```sh
+docker pull hub.hamdocker.ir/ubuntu
+
+docker run -ti hub.hamdocker.ir/ubuntu bash
 
 ```
