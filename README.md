@@ -10,4 +10,11 @@ git push
 
 
 
+mkdir for create directory
+../../ -->   back to directory
+sudo apt tree
+ 
+ 
+
+
 ```
